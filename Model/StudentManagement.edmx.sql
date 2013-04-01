@@ -5,8 +5,8 @@
 -- -----------------------------------------------------------
 -- Entity Designer DDL Script for MySQL Server 4.1 and higher
 -- -----------------------------------------------------------
--- Date Created: 03/28/2013 13:42:56
--- Generated from EDMX file: E:\StudentManagement\Model\StudentManagement.edmx
+-- Date Created: 04/01/2013 11:13:26
+-- Generated from EDMX file: E:\Student\StudentManagement\Model\StudentManagement.edmx
 -- Target version: 3.0.0.0
 -- --------------------------------------------------
 
